@@ -1,1 +1,1 @@
-# ai-medio-project
+# ai-media-project
